@@ -6,7 +6,7 @@
 
 1. Регистрация в GitHub.
 2. Создание репозитория: [Ссылка](https://github.com/manyunyaa/IT_BashlykovaMariya)
-3. Создание landing page: [Ссылка] (https://manyunyaa.github.io/IT_BashlykovaMariya/)
+3. Создание landing page: [Ссылка](https://manyunyaa.github.io/IT_BashlykovaMariya/)
 
 ### Лабораторная работа № 2. Работа с командным проектом.
 
