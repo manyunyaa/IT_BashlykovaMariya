@@ -10,7 +10,7 @@ body {
 }
 .header {
 	position:fixed;/*фиксируем блок с классом header*/
-	background:url(images/header.jpg) no-repeat;	
+	background:url(https://github.com/manyunyaa/IT_BashlykovaMariya/blob/main/header.jpg) no-repeat;	
 	width: 1000px;/*ширина шапки*/
 	height: 300px;/*высота шапки*/
 }
