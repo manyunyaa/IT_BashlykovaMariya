@@ -22,3 +22,5 @@
 ### Написание экзаменационного билета № 8.
 
 [Билет](https://github.com/stankin/inet-2022/wiki/exam08)
+[commit#1](https://github.com/stankin/inet-2022/wiki/exam08/8d175cef4765739d555a4cc60bc5bc604f85edf3)
+[commit#2](https://github.com/stankin/inet-2022/wiki/exam08/e05638788af5ef32b679445935f18c9713ac8941)
