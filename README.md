@@ -19,7 +19,7 @@
 
 Для выполнения третьей лабораторной работы планируется выполнить работу по настройке локальной сети с использованием Сisco Packet Tracer.
 
-[Отчет](https://github.com/manyunyaa/IT_BashlykovaMariya/blob/main/%D0%9B%D0%A03_%D0%91%D0%B0%D1%88%D0%BB%D1%8B%D0%BA%D0%BE%D0%B2%D0%B0.pdf) 
+[Отчет по настройке локальной сети](https://github.com/manyunyaa/IT_BashlykovaMariya/blob/main/%D0%9B%D0%A03_%D0%91%D0%B0%D1%88%D0%BB%D1%8B%D0%BA%D0%BE%D0%B2%D0%B0.pdf) 
 
 ### Написание экзаменационного билета № 8.
 
