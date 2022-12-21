@@ -13,7 +13,7 @@
 
 [Landing page системы](https://manyunyaa.github.io/shop/)
 
-[Папка с проектом](https://github.com/manyunyaa/IT_BashlykovaMariya/tree/main/shop)
+[Папка с файлами проекта](https://github.com/manyunyaa/IT_BashlykovaMariya/tree/main/shop)
 
 ### Лабораторная работа № 3. Настройка локальной сети передачи данных.
 
